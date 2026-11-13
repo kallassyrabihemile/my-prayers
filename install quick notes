@@ -1,0 +1,16 @@
+Microsoft Windows [Version 10.0.26200.9711]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Rabih>pip install keyboard pyperclip winotify
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: keyboard in .\AppData\Roaming\Python\Python314\site-packages (0.13.5)
+Requirement already satisfied: pyperclip in .\AppData\Roaming\Python\Python314\site-packages (1.11.0)
+Collecting winotify
+  Downloading winotify-1.1.0-py3-none-any.whl.metadata (2.6 kB)
+Downloading winotify-1.1.0-py3-none-any.whl (15 kB)
+Installing collected packages: winotify
+  WARNING: The script winotify.exe is installed in 'C:\Users\Rabih\AppData\Roaming\Python\Python314\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed winotify-1.1.0
+
+C:\Users\Rabih>
